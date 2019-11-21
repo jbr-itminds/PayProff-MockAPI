@@ -1,4 +1,30 @@
 {
+  "users": [
+    {
+      "key": 1,
+      "name": { "first": "John", "last": "Brown" },
+      "status": "Leveret",
+      "createDate": 1574324893869,
+      "fee": 1574324893869,
+      "amount": 89320.99
+    },
+    {
+      "key": 2,
+      "name": { "first": "Jim", "last": "Green" },
+      "status": "Afventer godkendelse",
+      "createDate": 1574324893869,
+      "fee": 1574324893869,
+      "amount": 89320.99
+    },
+    {
+      "key": 3,
+      "name": { "first": "Joe", "last": "Black" },
+      "status": "Annuleret",
+      "createDate": 1574324893869,
+      "fee": 1574324893869,
+      "amount": 89320.99
+    }
+  ],
   "transactions": [
     {
       "key": 1,
