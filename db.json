@@ -1,7 +1,7 @@
 {
   "transactions": [
     {
-      "key": 1,
+      "id": 1,
       "name": { "first": "John", "last": "Brown" },
       "statusText": "Leveret",
       "status": "Delivered",
@@ -10,7 +10,7 @@
       "amount": 89320.99
     },
     {
-      "key": 2,
+      "id": 2,
       "name": { "first": "Jim", "last": "Green" },
       "statusText": "Afventer godkendelse",
       "status": "OnHold",
@@ -19,7 +19,7 @@
       "amount": 89320.99
     },
     {
-      "key": 3,
+      "id": 3,
       "name": { "first": "Joe", "last": "Black" },
       "statusText": "Annuleret",
       "status": "Cancelled",
