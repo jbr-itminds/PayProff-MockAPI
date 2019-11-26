@@ -4,7 +4,7 @@
       "id": 1,
       "name": { "first": "John", "last": "Brown" },
       "statusText": "Leveret",
-      "status": "Delivered",
+      "status": 1,
       "createDate": 1574324893869,
       "fee": 1574324893869,
       "amount": 89320.99
@@ -13,7 +13,7 @@
       "id": 2,
       "name": { "first": "Jim", "last": "Green" },
       "statusText": "Afventer godkendelse",
-      "status": "OnHold",
+      "status": 3,
       "createDate": 1574324893869,
       "fee": 1574324893869,
       "amount": 89320.99
@@ -22,7 +22,7 @@
       "id": 3,
       "name": { "first": "Joe", "last": "Black" },
       "statusText": "Annuleret",
-      "status": "Cancelled",
+      "status": 2,
       "createDate": 1574324893869,
       "fee": 1574324893869,
       "amount": 89320.99
